@@ -12,7 +12,7 @@ import './MyLabel.css'
  * @interface Props
  * @typedef {Props}
  */
-interface Props {
+export interface Props {
   /**
    * Text to display
    */
